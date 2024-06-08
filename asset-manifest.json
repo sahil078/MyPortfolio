@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.49f5ae5d.css",
+    "main.js": "/MyPortfolio/static/js/main.cabbfd34.js",
+    "static/js/787.5c0b2d12.chunk.js": "/MyPortfolio/static/js/787.5c0b2d12.chunk.js",
+    "static/media/logo.png": "/MyPortfolio/static/media/logo.f7c8a91964af0298341c.png",
+    "static/media/course.png": "/MyPortfolio/static/media/course.6afb4d4a70506eaf0cd1.png",
+    "static/media/aboutpng.png": "/MyPortfolio/static/media/aboutpng.920ffa650475de051c75.png",
+    "static/media/event.png": "/MyPortfolio/static/media/event.d89aec40308869fc18ca.png",
+    "static/media/weather-app.png": "/MyPortfolio/static/media/weather-app.40fb019de5240de6e6f6.png",
+    "static/media/dev233.svg": "/MyPortfolio/static/media/dev233.c50ce9f899d161f7b2775e2c0f3304b6.svg",
+    "static/media/portfolio.png": "/MyPortfolio/static/media/portfolio.8bfcffacf7f5391e6cdf.png",
+    "static/media/myresume.pdf": "/MyPortfolio/static/media/myresume.90944b3d178bf6110af5.pdf",
+    "static/media/imagefy.png": "/MyPortfolio/static/media/imagefy.6e2d5cdfb62e69a94533.png",
+    "static/media/home-bg.jpg": "/MyPortfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/MyPortfolio/static/media/avatar.ec4f3aecbedb3cc8a4ff4f78def0eaae.svg",
+    "static/media/pre.svg": "/MyPortfolio/static/media/pre.c2fb5562567e4810367a.svg",
+    "index.html": "/MyPortfolio/index.html",
+    "main.49f5ae5d.css.map": "/MyPortfolio/static/css/main.49f5ae5d.css.map",
+    "main.cabbfd34.js.map": "/MyPortfolio/static/js/main.cabbfd34.js.map",
+    "787.5c0b2d12.chunk.js.map": "/MyPortfolio/static/js/787.5c0b2d12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49f5ae5d.css",
+    "static/js/main.cabbfd34.js"
+  ]
+}
